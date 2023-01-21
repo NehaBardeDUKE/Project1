@@ -1,6 +1,6 @@
 # Project1
 
-##Information redaction microservice based on IAM
+## Information redaction microservice based on IAM
 
 Based on the person requesting the information, take data from an Azure database and provide a descriptive file containing only the information that is required for that access level.
 
